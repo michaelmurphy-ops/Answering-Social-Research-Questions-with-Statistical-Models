@@ -16,7 +16,7 @@
 # 4. Use Dagitty to identify sufficient adjustment sets.
 # 5. Explain why adjusting for every available variable can be a mistake.
 
-
+ 
 # ============================================================
 # 0. SET-UP
 # ============================================================
